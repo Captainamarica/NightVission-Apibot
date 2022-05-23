@@ -1,11 +1,11 @@
 # NIGHT VISSION SCRAPER BOT
-[![MAFIABOT LOGO](https://telegra.ph/file/d84610aba6d5dfbb0dfc0.jpg)
+![Scraper Bot Logo](https://telegra.ph/file/d84610aba6d5dfbb0dfc0.jpg)
 
 
 
-# Owner = [LegendBoy](https://t.me/LegendBoy_XD)
+# Owner = [NAVANJANA](https://t.me/NA_VA_N_JA_NA1)
 
-## Support = [Group](https://t.me/LegendBot_OP)
+# Support = [Chanel](https://t.me/NightVission)
 
 -----
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
