@@ -18,19 +18,22 @@
       "value": "ANYTHING"
     },
     "TG_BOT_TOKEN": {
-      "description": "Your bot token, as a string."
+      "description": "Your bot token, as a string.",
+      "value": "5304251442:AAEdcSiHOZzlX-qswIuOtMgfjUPtmHbJF7E"
     },
     "URL": {
       "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
-      "value": "https://<appname>.herokuapp.com/"
+      "value": "https://nightvission-scraperbot.herokuapp.com/"
     },
     "APP_TITLE": {
       "description": "specify a custom app title(Bot name)",
       "required": false
+      "value": "NIGHT VISSION API SCRAPER"
     },
     "APP_SHORT_NAME": {
       "description": "specify a custom alphamumeric shortname (5-32 characters)(Bot name)",
       "required": false
+       "value": "NightVissionscraper"
     },
     "APP_URL": {
       "description": "specify a custom app URL | https://telegram.dog/(BOT_USERNAME)",
