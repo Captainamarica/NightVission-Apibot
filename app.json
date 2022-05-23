@@ -1,7 +1,7 @@
 {
-  "name": "Night Vission Api Bot",
-  "logo": "https://telegra.ph/file/e6da924675d210cc8f795.jpg",
+  "name": "Night Vission Api Scraper",
   "description": "get your APP ID and API HASH inside Telegram",
+  "logo": "https://telegra.ph/file/e6da924675d210cc8f795.jpg",
   "keywords": [
     "telegram",
     "best",
@@ -18,11 +18,11 @@
       "value": "ANYTHING"
     },
     "TG_BOT_TOKEN": {
-      "description": "Your bot token, as a string.",
+      "description": "Your bot token, as a string."
     },
     "URL": {
       "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
-      "value": "https://nightvission-scraperbot.herokuapp.com/"
+      "value": "https://<appname>.herokuapp.com/"
     },
     "APP_TITLE": {
       "description": "specify a custom app title(Bot name)",
@@ -30,7 +30,7 @@
     },
     "APP_SHORT_NAME": {
       "description": "specify a custom alphamumeric shortname (5-32 characters)(Bot name)",
-      "required": false 
+      "required": false
     },
     "APP_URL": {
       "description": "specify a custom app URL | https://telegram.dog/(BOT_USERNAME)",
